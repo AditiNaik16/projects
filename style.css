@@ -1,27 +1,27 @@
 body {
+    background-color: #9dc79f;
+    font-family: monospace;
     text-align: center;
-    background-color: #B2AC88;
-    color: #C5E1A5
-}
-
-img {
-    width: 500px;
-    border-style: solid;
-    border-color: #FFF9C4;
-    border-width: 5px;
 }
 
 p {
-    font-size: 30px;
-    color: #C5E1A5
+    font-size: 20px;
+    color: aliceblue
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    background-color: cadetblue;
+    margin: 8px auto;
 }
 
 h1 {
-    font-size: 35px;
-    color: #C5E1A5
+    font-size: 30px;
+    color: beige;
+    font-family: fantasy;
 }
 
-h2 {
-    font-size: 30px;
-    color: #C5E1A5;
+.image {
+    border-radius: 99px;
 }
